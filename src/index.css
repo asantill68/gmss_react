@@ -5,7 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: aquamarine; */
-  background-image: url(/img/br2.png);
+}
+
+body,
+container {
+  /* position: absolute; */
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background: url(/img/br3.png);
   background-size: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }

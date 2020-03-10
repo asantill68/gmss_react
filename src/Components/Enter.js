@@ -1,6 +1,6 @@
 import React from "react";
 
-const Button = (props) => {
+const Enter = (props) => {
     return (
         <div className="options">
             <button>View Your Options</button>
@@ -9,4 +9,4 @@ const Button = (props) => {
 };
 
  
-export default Button;
+export default Enter;
