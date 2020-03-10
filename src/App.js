@@ -1,15 +1,15 @@
 import React from "react";
 import "./App.css";
 import Gmss from "./Components/Gmss";
-import Button from "./Components/Enter";
-import Body from "./Components/Intro";
+import Enter from "./Components/Enter";
+import Intro from "./Components/Intro";
 
 function App() {
   return (
     <div className="App">
       <Gmss />
-      <Body />
-      <Button />
+      <Intro />
+      <Enter />
     </div>
   );
 }
