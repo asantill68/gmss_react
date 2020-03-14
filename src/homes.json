@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Pool House",
+    "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rooms": "Four",
+    "price": "$300/Month"
+  },
+  {
+    "id": 2,
+    "name": "Summer Shack",
+    "image": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rooms": "Four",
+    "price": "$350/Month"
+  },
+  {
+    "id": 3,
+    "name": "Country Cottage",
+    "image": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "rooms": "Five",
+    "price": "$375/Month"
+  }
+]
