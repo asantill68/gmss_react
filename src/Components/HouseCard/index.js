@@ -10,7 +10,6 @@ const HouseCard = props => {
           <h1>{props.name}</h1>
           <h2>Rooms: {props.rooms}</h2>
           <h2>Rent: {props.price}</h2>
-          <br />
         </div>
       </div>
     </div>

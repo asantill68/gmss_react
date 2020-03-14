@@ -38,6 +38,7 @@ function App() {
           price={homes[3].price}
         />
       </div>
+      <br />
       <Enter />
     </Wrapper>
   );

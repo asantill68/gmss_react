@@ -15,12 +15,14 @@ img {
 .card {
   position: relative;
   width: 40%;
-  padding: 50px;
+  padding-left: 200px;
+  padding-top: 50px;
+  display: inline-block;
 }
 .column {
   position: absolute;
-  top: 55%;
-  left: 20%;
+  top: 65%;
+  left: 43%;
   width: 50%;
   text-align: center;
   color: rgb(15, 15, 109);
