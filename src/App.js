@@ -31,6 +31,12 @@ function App() {
           rooms={homes[2].rooms}
           price={homes[2].price}
         />
+        <HouseCard
+          name={homes[3].name}
+          image={homes[3].image}
+          rooms={homes[3].rooms}
+          price={homes[3].price}
+        />
       </div>
       <br />
       <Enter />

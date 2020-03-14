@@ -12,6 +12,9 @@ img {
 * {
   box-sizing: border-box;
 }
+.card {
+  position: relative;
+}
 .column {
   float: initial;
   width: 50%;
@@ -22,4 +25,9 @@ img {
   content: "";
   clear: both;
   display: inline-table;
+}
+img {
+  border-radius: 50%;
+  height: 400px;
+  width: 500px;
 }

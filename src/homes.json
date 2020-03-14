@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Pool House",
+    "name": "Suburban Home",
     "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "rooms": "Four",
     "price": "$300/Month"
@@ -19,5 +19,12 @@
     "image": "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     "rooms": "Five",
     "price": "$375/Month"
+  },
+  {
+    "id": 4,
+    "name": "Pool House",
+    "image": "https://developmentscostadelsol.com/wp-content/uploads/2019/01/Terrace-651x323.jpg",
+    "rooms": "Three",
+    "price": "$500/Month"
   }
 ]
