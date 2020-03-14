@@ -1,9 +1,9 @@
 import React from "react";
 import "./App.css";
-import Gmss from "./components/Gmss";
-import Enter from "./components/Enter";
+import Gmss from "./components/Header/";
+import Enter from "./components/Enter/";
 import Intro from "./components/Intro";
-import HouseCard from "./components/HouseCard/HouseCard";
+import HouseCard from "./components/HouseCard/";
 import homes from "./homes.json";
 
 function App() {
