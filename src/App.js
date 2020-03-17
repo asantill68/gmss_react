@@ -6,6 +6,7 @@ import Info from "./components/Info";
 import HouseCard from "./components/HouseCard";
 import homes from "./homes.json";
 import Wrapper from "./components/Wrapper";
+import Rooms from "./components/Modal";
 
 function App() {
   return (

@@ -1,4 +1,4 @@
 Created the React app:
 npx create-react-app .
 
-
+npm install react-modal
