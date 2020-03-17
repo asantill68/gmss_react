@@ -1,7 +1,12 @@
 .infor {
-  color: rgb(15, 15, 109);
+  color: rgb(140, 140, 180);
+  background-color: rgb(15, 15, 109);
   font-size: large;
   text-align: center;
-  height: 65px;
-  /* padding-top: 20px; */
+  height: auto;
+  width: 30%;
+  position: absolute;
+  left: 35%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }

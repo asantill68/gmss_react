@@ -4,7 +4,7 @@ import styles from "./styles.css";
 const Info = props => {
   return (
     <div className="infor">
-      <h1>Available properties.</h1>
+      <h1>Available Properties.</h1>
     </div>
   );
 };

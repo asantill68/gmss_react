@@ -11,7 +11,9 @@ function App() {
   return (
     <Wrapper>
       <Gmss />
+      <br />
       <Info />
+      <br />
       <div>
         <HouseCard
           name={homes[0].name}

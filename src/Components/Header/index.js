@@ -7,6 +7,7 @@ const Gmss = props => {
       <h1>Give Me Sum Space</h1>
       <p>Are you looking for Sum Space?</p>
       <p>Find a room that fits your needs.</p>
+      <br />
     </div>
   );
 };
