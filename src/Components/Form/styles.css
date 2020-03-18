@@ -1,0 +1,17 @@
+.cont {
+  background-color: rgb(15, 15, 109);
+  text-align: center;
+  color: rgb(140, 140, 180);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+
+.cont,
+label {
+  padding: 10px;
+}
+input {
+  background-color: grey;
+  padding: 10px;
+}

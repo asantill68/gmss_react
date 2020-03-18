@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./styles.css";
-import Rooms from "../Modal";
+import RoomCard from "../Modal";
 
 const HouseCard = props => {
   return (
@@ -9,9 +9,8 @@ const HouseCard = props => {
       <div className="row">
         <div className="column">
           <h1>{props.name}</h1>
-          {/* <h2>Rooms: {props.rooms}</h2> */}
           <h2>Rooms from {props.price}</h2>
-          <Rooms />
+          <RoomCard />
         </div>
       </div>
     </div>
