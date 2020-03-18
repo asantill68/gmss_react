@@ -6,36 +6,36 @@ const Form = props => {
     <div className="cont">
       <h1>Register Your Home</h1>
       <form action="signUp">
-        <label htmlFor="uName"><h2>UserName:</h2></label>
+        <label htmlFor="uName">UserName:</label>
         <input type="text" />
-        <br />
+        <br /><br/>
         <label htmlFor="houseName">House Name: </label>
         <input type="text" />
-        <br />
+        <br /><br/>
         <label htmlFor="image">Image of Home: </label>
         <input type="url" />
-        <br />
+        <br /><br/>
         <label htmlFor="room#">Number of Rooms: </label>
         <input type="number" />
-        <br />
+        <br /><br/>
         <label htmlFor="number">Price per Room: </label>
-        <input type="number" />
-        <br />
+        <input type="" />
+        <br /><br/>
         <label htmlFor="image">Image of Room 01: </label>
         <input type="url" />
-        <br />
+        <br /><br/>
         <label htmlFor="image">Image of Room 02: </label>
         <input type="url" />
-        <br />
+        <br /><br/>
         <label htmlFor="image">Image of Room 03: </label>
         <input type="url" />
-        <br />
+        <br /><br/>
         <label htmlFor="image">Image of Room 04: </label>
         <input type="url" />
-        <br />
+        <br /><br/>
         <label htmlFor="image">Image of Room 05: </label>
         <input type="url" />
-        <br />
+        <br /><br/>
       </form>
     </div>
   );

@@ -40,8 +40,8 @@ function App() {
           rooms={homes[3].rooms}
           price={homes[3].price}
         />
-      </div>
-      <br />
+      </div><br/>
+      <br/>
       <Enter />
     </Wrapper>
   );
